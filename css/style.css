@@ -1,3 +1,11 @@
-h1{
-    color:red;
+.article{
+    background-color: lightgray;
+    border-radius: 1em;
+    width: 20em;
+    text-align: center;
+    align-self: center;
+    padding: 1vmin;
+}
+.form_login{
+
 }
